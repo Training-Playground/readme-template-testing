@@ -22,11 +22,11 @@
 ## About The Project
 
 <a href="https://github.com/Training-Playground/readme-template-testing.git">View Demo</a>
-![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot]
-![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][dashboard-screenshot]
+![Product Name Screen Shot][place-orders-screenshot]
+![Product Name Screen Shot][search-orders-screenshot]
+![Product Name Screen Shot][manage-customers-screenshot]
+![Product Name Screen Shot][manage-items-screenshot]
 This repository is for Readme Template Testing.
 
 ## Getting Started
@@ -63,4 +63,8 @@ Licensed under the [MIT](LICENSE.txt) license.
 [license-shield]: https://img.shields.io/github/license/Training-Playground/readme-template-testing.svg?style=for-the-badge
 
 [license-url]: https://github.com/Training-Playground/readme-template-testing/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[dashboard-screenshot]: images/Dashboard.png
+[place-orders-screenshot]: images/place-orders.png
+[search-orders-screenshot]: images/search-orders.png
+[manage-customers-screenshot]: images/manage-customers.png
+[manage-items-screenshot]: images/manage-items.png
