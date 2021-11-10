@@ -22,11 +22,11 @@
 ## About The Project
 
 <a href="https://github.com/Training-Playground/readme-template-testing.git">View Demo</a>
-[![Product Name Screen Shot][product-screenshot]]
-[![Product Name Screen Shot][product-screenshot]]
-[![Product Name Screen Shot][product-screenshot]]
-[![Product Name Screen Shot][product-screenshot]]
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
+![Product Name Screen Shot][product-screenshot]
 This repository is for Readme Template Testing.
 
 ## Getting Started
