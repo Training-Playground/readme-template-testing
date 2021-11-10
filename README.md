@@ -1,5 +1,7 @@
 # Readme Template Testing
 
+<a href="https://github.com/Training-Playground/readme-template-testing.git">View Demo</a>
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
