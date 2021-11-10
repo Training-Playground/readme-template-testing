@@ -41,8 +41,8 @@ Licensed under the [MIT](LICENSE.txt) license.
 
 ## Project
 
-[Repository](https://github.com/Training-Playground/readme-template-testing.git)
-[Live Demo](https://hamzanazli.github.io/Simple-POS-App-UI-using-Bootstrap/)
+* [Click Here](https://github.com/Training-Playground/readme-template-testing.git) to view the project repository.
+* [Click Here](https://hamzanazli.github.io/Simple-POS-App-UI-using-Bootstrap/) to view the live demo hosted on github pages.
 
 ## Acknowledgements
 
