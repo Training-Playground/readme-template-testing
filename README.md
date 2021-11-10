@@ -22,7 +22,11 @@
 </details>
 
 ## About The Project
-
+[![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]
 This repository is for Readme Template Testing.
 
 ## Getting Started
@@ -59,3 +63,4 @@ Licensed under the [MIT](LICENSE.txt) license.
 [license-shield]: https://img.shields.io/github/license/Training-Playground/readme-template-testing.svg?style=for-the-badge
 
 [license-url]: https://github.com/Training-Playground/readme-template-testing/blob/master/LICENSE.txt
+[product-screenshot]: images/screenshot.png
