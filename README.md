@@ -1,7 +1,5 @@
 # Readme Template Testing
 
-<a href="https://github.com/Training-Playground/readme-template-testing.git">View Demo</a>
-
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
@@ -22,6 +20,8 @@
 </details>
 
 ## About The Project
+
+<a href="https://github.com/Training-Playground/readme-template-testing.git">View Demo</a>
 [![Product Name Screen Shot][product-screenshot]
 [![Product Name Screen Shot][product-screenshot]
 [![Product Name Screen Shot][product-screenshot]
@@ -38,11 +38,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Copyright &copy; 2021 - present Hamza Nazli. All rights reserved.
 
 Licensed under the [MIT](LICENSE.txt) license.
-## Contact
 
+## Project
 
-
-[Project](https://github.com/Training-Playground/readme-template-testing.git)
+[Repository](https://github.com/Training-Playground/readme-template-testing.git)
+[Live Demo](https://hamzanazli.github.io/Simple-POS-App-UI-using-Bootstrap/)
 
 ## Acknowledgements
 
